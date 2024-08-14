@@ -15590,11 +15590,13 @@ v.ua
 express.val.run
 web.val.run
 
-// Vercel, Inc : https://vercel.com/
+// Vercel, Inc : https://vercel.com/, https://v0.dev
 // Submitted by Connor Davis <security@vercel.com>
 vercel.app
 vercel.dev
 now.sh
+v0.build
+vusercontent.net
 
 // VeryPositive SIA : http://very.lv
 // Submitted by Danko Aleksejevs <danko@very.lv>
